@@ -1,0 +1,17 @@
+{
+  "name": "T.E Digital | Marketing • Software • Web Solutions",
+  "short_name": "T.E Digital",
+  "description": "T.E Digital بقيادة طارق عيد — حلول التسويق الرقمي وتطوير المواقع والواجهات الأمامية في مصر.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1322",
+  "theme_color": "#0d1322",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
