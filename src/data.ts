@@ -9,10 +9,8 @@ export const DEVELOPER_LOCATION = "القاهرة، المعادي، جمهور�
 export const GITHUB_PROFILE_URL = "https://github.com/eng-tarek-cyber";
 export const LINKEDIN_PROFILE_URL =
   "https://www.linkedin.com/in/tarek-eid-5280b3392/";
-  export const FACEBOOK_PAGE_URL =
-  "https://www.facebook.com/share/1EzQqATenY/";
-export const SITE_PRODUCTION_URL =
-  "https://ais-pre-onbsjkddopbjbjginpnqok-416234462448.europe-west2.run.app";
+export const FACEBOOK_PAGE_URL = "https://www.facebook.com/share/1EzQqATenY/";
+export const SITE_PRODUCTION_URL = "https://te-digital-lilac.vercel.app";
 
 export const AGENCY_NAME = "T.E Digital";
 export const AGENCY_NAME_AR = "تي إي ديجيتال";
