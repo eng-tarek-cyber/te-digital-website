@@ -4,4 +4,4 @@ Allow: /
 Disallow: /api/
 
 # XML Sitemap
-Sitemap: https://ais-pre-onbsjkddopbjbjginpnqok-416234462448.europe-west2.run.app/sitemap.xml
+Sitemap: https://te-digital-lilac.vercel.app/sitemap.xml
